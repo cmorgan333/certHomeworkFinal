@@ -18,3 +18,24 @@ h6,
 p {
   margin-bottom: 16px;
 }
+
+@font-face {
+  font-family: Caveat Bold;
+  src: url(../css/fonts/Caveat-Bold.ttf);
+}
+@font-face {
+  font-family: Caveat Regular;
+  src: url(../css/fonts/Caveat-Regular.ttf);
+}
+@font-face {
+  font-family: Caveat Bold;
+  src: url(../css/fonts/Caveat-Bold.ttf);
+}
+@font-face {
+  font-family: Caveat Bold;
+  src: url(../css/fonts/Caveat-Bold.ttf);
+}
+@font-face {
+  font-family: Caveat Bold;
+  src: url(../css/fonts/Caveat-Bold.ttf);
+}

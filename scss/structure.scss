@@ -18,3 +18,30 @@ h6,
 p {
 	margin-bottom: 16px;
 }
+
+// ========fonts======//
+
+@font-face {
+	font-family: Caveat Bold;
+	src: url(../css/fonts/Caveat-Bold.ttf);
+}
+
+@font-face {
+	font-family: Caveat Regular;
+	src: url(../css/fonts/Caveat-Regular.ttf);
+}
+
+@font-face {
+	font-family: GillSans Italic;
+	src: url(../css/fonts/GillSans\ Italic.ttf);
+}
+
+@font-face {
+	font-family: GillSans-Light;
+	src: url(../css/fonts/GillSans-Light.ttf);
+}
+
+@font-face {
+	font-family: GillSans;
+	src: url(../css/fonts/GillSans.ttf);
+}
