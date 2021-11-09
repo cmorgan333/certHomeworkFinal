@@ -21,6 +21,8 @@ p {
 
 // ========fonts======//
 
+// CAVEAT
+
 @font-face {
 	font-family: Caveat Bold;
 	src: url(../css/fonts/Caveat-Bold.ttf);
@@ -31,9 +33,33 @@ p {
 	src: url(../css/fonts/Caveat-Regular.ttf);
 }
 
+// LATO
+
+@font-face {
+	font-family: LatoBlack;
+	src: url(../css/fonts/Lato-Black.ttf);
+}
+
+@font-face {
+	font-family: LatoItalic;
+	src: url(../css/fonts/Lato-Italic.ttf);
+}
+
+@font-face {
+	font-family: LatoLight;
+	src: url(../css/fonts/Lato-Light.ttf);
+}
+
+@font-face {
+	font-family: LatoRegular;
+	src: url(../css/fonts/Lato-Regular.ttf);
+}
+
+// GILL SANS
+
 @font-face {
 	font-family: GillSans Italic;
-	src: url(../css/fonts/GillSans\ Italic.ttf);
+	src: url(../css/fonts/GillSansItalic.ttf);
 }
 
 @font-face {
