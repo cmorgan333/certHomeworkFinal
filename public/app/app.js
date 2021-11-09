@@ -10,7 +10,7 @@ function initURLListener(){
     changeRoute();
 }
 
-console.log (firebase);
+
 
 $(document).ready(function() {
     initURLListener();
