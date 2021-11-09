@@ -56,9 +56,11 @@ p {
   src: url(../css/fonts/GillSans.ttf);
 }
 nav {
+  position: absolute;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  z-index: 99;
 }
 nav .logo {
   width: 168px;
@@ -98,12 +100,14 @@ nav .nav-holder button {
 }
 
 footer {
+  position: absolute;
   height: 60px;
   font-family: LatoItalic;
   font-size: 15px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  z-index: 99;
 }
 footer .copyright {
   width: 266px;
@@ -134,4 +138,12 @@ footer .socials .insta {
   width: 19px;
   height: 19px;
   background-image: url(../images/socials/insta.png);
+}
+
+.home-content .home-hero {
+  height: 800px;
+  background-image: url(../images/hero.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
